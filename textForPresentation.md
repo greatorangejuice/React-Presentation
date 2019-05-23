@@ -2,10 +2,19 @@
 
 Hello! I am Pavel and today I want to speak with you about ReactJS. 
 
-### Let's do it! 
-ReactJS - it's a simple library. But so many people saying that it's Framework and we can agree with it. 
-The most popular thing, where we can use React - it's SPA or single page applications. I hope that you know, what is it. If no... So, it's application, which u can use without reloading page. It's really cool.
+## Let's do it! 
+###Part One
+ReactJS - it's a simple library by Facebook. But so many people saying that it's Framework and we can agree with it. 
+Main React goal - it's simply UI bulding.
+The most popular thing, where we can use React - it's SPA or single page applications. 
 
+
+At first ReactJs it's JSX - special syntax,  which unites HTML and JS. 
+
+
+And Virtual DOM
+And CompOnents
+###Part two
 You can ask me: "Hey, you! Why React - it's cool? Show something us."
 
 * House slide

@@ -16,7 +16,7 @@
 
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+		<link rel="stylesheet" href="css/theme/moon.css" id="theme">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/monokai.css">
@@ -43,7 +43,6 @@
 			<div class="slides">
 				<section>
 					<h1>ReactJS</h1>
-					<h3>The simple library(framework) for building SPA</h3>
 					<p>
 						<small>Created by <a href="https://github.com/greatorangejuice">Pavel Snigirev</a> </small>
 					</p>
@@ -52,15 +51,49 @@
 				<section>
 					<h2>Hello There</h2>
 					<p>
-						REACTJS enables you to create powerfull single page applications(SPA). This presentation will show 
-						you what is ReactJS, what it can do and how it works.
+						ReactJS - it's powerfull library, which can help you build so many cool things. 
+						Like a ... insta and etc.
 					</p>
+					<img src="./reactINTRO.png" alt="logo">
+				</section>
+				
+				<section >
+					<section>
+						<h2 class="fragment fade-out">What makes ReactJS stand out?</h2>
+					</section>
+					<section>
+						<h3>Component-Based</h3>
+						<img src="./copmponents.png"  width="500" height="500" alt="">
+					</section>
+					<section>
+						<h3>Simple Component(stateless)</h3>
+						<pre><code class="hljs" data-trim>
+class HelloMessage extends React.Component {
+	render() {
+		return (
+		<div>
+			Привет, {this.props.name}
+		</div>
+		);
+	}
+}
+
+ReactDOM.render(
+	&ltHelloMessage name="Taylor" &gt,
+	document.getElementById('hello-example')
+);
+							</code>
+						</pre>
+					</section>
+				</section>	
+				<section>
+					<img src="./reactINTRO.png" alt="">
 				</section>
 
 				<!-- Example of nested vertical slides -->
 				<section>
 					<section>
-						<h2>Hmm...</h2>
+						<h3>Hmm...</h3>
 						<a href="#" class="fragment">
 							<img width="500" height="400" data-src="./pictureONE.png" alt="Down arrow">
 						</a>

@@ -42,11 +42,24 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
-					<h1>Reveal.js</h1>
-					<h3>The HTML Presentation Framework</h3>
-					<p>
-						<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
-					</p>
+						<pre>
+								<code class="hljs fragment">
+								class HelloMessage extends React.Component {
+									render() {
+										return (
+										<div>
+											Привет, {this.props.name}
+										</div>
+										);
+									}
+								}
+									
+								ReactDOM.render(
+								<HelloMessage name="Саша" />,
+								document.getElementById('hello-example')
+								);
+								</code>
+							</pre>
 				</section>
 
 				<section>
