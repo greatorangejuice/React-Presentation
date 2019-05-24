@@ -13,6 +13,8 @@ The most popular thing, where we can use React - it's SPA or single page applica
 ReactJS - it's component-based library. Thanks for react-components you can build incapsulated blocks with their own state, then compose them to make complex UIs.
 React has two variables of components: statefull and stateless.
 
+* Simple component
+That just simple component without own state. U can use simple component for render static HTML.
 
 At first ReactJS it's JSX - special syntax,  which unites HTML and JS. 
 
