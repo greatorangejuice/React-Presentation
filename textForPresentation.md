@@ -4,23 +4,25 @@ Hello! I am Pavel and today I want to speak with you about ReactJS.
 
 ## Let's do it!
 ###Part One
-ReactJS - it's a simple library by Facebook. But so many people saying that it's Framework and we can agree with it.
+ReactJS - it's a simple library by Facebook. But so many people say that it's Framework and we can agree with it.
 Main React goal - it's simply UI building.
-The most popular thing, where we can use React - it's SPA or single page applications.
+The most popular thing, where we can use React is SPA or single page applications.
 
+####React it is easy to learn
+Some text
 #####WHAT MAKES REACTJS STAND OUT?
 * JSX
 
 At first ReactJS it's JSX - special syntax,  which unites XML and JS.
 But you can use HTML + JavaScript.
 
-ReactJS - it's component-based library. Thanks for react-components you can build incapsulated blocks with their own state, then compose them to make complex UIs.
-#####React has two variables of components: statefull and stateless.
+ReactJS - is a component-based library. Thanks to react-components you can build incapsulated blocks with their own state, then compose them to make complex UIs. When you writing your code you should thinking in components.
+#####React has two variables of components: stateful and stateless.
 
 * Simple component
 
-That just simple component without own state. U can use simple component for render static HTML. But stateless component - it's not just static HTML. You can use this component and for dynamic HTML with props. About props I will say later.
-#####So, when you will use simple component?
+That just a simple component without own state. U can use simple component for render static HTML. But stateless component - isn't just static HTML. You can use this component and for dynamic HTML with props. About props I will say later.
+#####So, when the simple component is needed?
     When you just need to present the props
     When you don’t need a state, or any internal variables
     When creating element does not need to be interactive
@@ -28,8 +30,8 @@ That just simple component without own state. U can use simple component for ren
 
 * Statefull component
 
-That component has state and thanks for state u can build dynamic HTML.
-And your simple component can inherite state thanks for props.
+That component has state and thanks to state u can build dynamic HTML.
+And your simple component can inherite state thanks to props.
 #####When would you use a stateful component?
     When building element that accepts user input
     ..or element that is interactive on page
