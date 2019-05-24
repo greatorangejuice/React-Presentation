@@ -4,8 +4,8 @@ Hello! I am Pavel and today I want to speak with you about ReactJS.
 
 ## Let's do it!
 ###Part One
-ReactJS - it's a simple library by Facebook. But so many people saying that it's Framework and we can agree with it. 
-Main React goal - it's simply UI bulding.
+ReactJS - it's a simple library by Facebook. But so many people saying that it's Framework and we can agree with it.
+Main React goal - it's simply UI building.
 The most popular thing, where we can use React - it's SPA or single page applications.
 
 #####WHAT MAKES REACTJS STAND OUT?
@@ -28,8 +28,8 @@ That just simple component without own state. U can use simple component for ren
 
 * Statefull component
 
-That component has state and thanks state u can build dynamic HTML.
-And your simple component can inherite state thanks with props.
+That component has state and thanks for state u can build dynamic HTML.
+And your simple component can inherite state thanks for props.
 #####When would you use a stateful component?
     When building element that accepts user input
     ..or element that is interactive on page
@@ -43,10 +43,8 @@ The main concept of virtual DOM - it is new render just changed some childes. No
 
 * Props and State
 
-I said about you about state and props. 
+I said about state and props. It's two connected things. If you need just one stateful component, you can transfer values of state thanks with props. It's like a bridge between parents and child components.
 
-And Virtual DOM
-And CompOnents
 ###Part two
 You can ask me: "Hey, you! Why React - it's cool? Show something us."
 
