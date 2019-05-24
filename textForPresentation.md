@@ -8,8 +8,13 @@ ReactJS - it's a simple library by Facebook. But so many people saying that it's
 Main React goal - it's simply UI bulding.
 The most popular thing, where we can use React - it's SPA or single page applications. 
 
+#####WHAT MAKES REACTJS STAND OUT?
 
-At first ReactJs it's JSX - special syntax,  which unites HTML and JS. 
+ReactJS - it's component-based library. Thanks for react-components you can build incapsulated blocks with their own state, then compose them to make complex UIs.
+React has two variables of components: statefull and stateless.
+
+
+At first ReactJS it's JSX - special syntax,  which unites HTML and JS. 
 
 
 And Virtual DOM
