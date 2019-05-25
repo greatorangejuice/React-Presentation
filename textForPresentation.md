@@ -61,26 +61,3 @@ The main concept of virtual DOM - it is new render just changed some childes. No
 
 I said about state and props. It's two connected things. If you need just one stateful component, you can transfer values of state thanks with props. It's like a bridge between parents and child components.
 
-###Part two
-You can ask me: "Hey, you! Why React - it's cool? Show something us."
-
-* House slide
-
-Hmmm... Okey. Let's imagine, this house - it's our Application, which we build for one hour for example. And what we can do with this?
-
-* House slide [2]
-
-Let's create magic!
-Хм, хм, хм
-О, ачивка!
-
-* House slide [3]
-
-Aaaaaand.... Cool.
-
-* House slide [4]
-
-And just now we added React to our own project. It's simply! 
-You can add React to just one page, our for all project. 
-
-And it's all without... [SHOW PICTURE]
