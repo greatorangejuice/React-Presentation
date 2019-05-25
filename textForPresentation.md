@@ -5,18 +5,32 @@ Hello! I am Pavel and today I want to speak with you about ReactJS.
 ## Let's do it!
 ###Part One
 ReactJS - it's a simple library by Facebook. But so many people say that it's Framework and we can agree with it.
+First relize was in March in 2013. 
+ReactJS using in applications like a Instagram, Amazon, Facebook and etc.
 Main React goal - it's simply UI building.
-The most popular thing, where we can use React is SPA or single page applications.
 
 ####React it is easy to learn
-Some text
+ReactJS it easy to learn. Yeah, it's true. For using react you should have knowledges in JavaScript, HTML and CSS. But I met people who knows just frameworks and they aren't knowleges in JavaScript. PLease, don't do that. It's really bad practice, because you should know what you write. If you can't understand how it works you can't write good code.
+
+Let's imagine that we have a project which using pure JavaScript or it's just layout. And now we are ready for something new in our project. 
+Let's create magic! And add React! (OH, not is it!)
+
+* For add ReactJS in a project, you should add a DOM Container to the HTML. We added div with unique ID for search this block later and for add our logic.
+
+* On the second step we should add the script tags.
+
+And now we have first conclusions!
+* You can add React in just one page or in all project
+
+* And if you have been starting project from scratc you can use
 #####WHAT MAKES REACTJS STAND OUT?
 * JSX
 
 At first ReactJS it's JSX - special syntax,  which unites XML and JS.
-But you can use HTML + JavaScript.
+But you can use HTML + JavaScript. JSX helping you with DOM manipulation. 
 
-ReactJS - is a component-based library. Thanks to react-components you can build incapsulated blocks with their own state, then compose them to make complex UIs. When you writing your code you should thinking in components.
+ReactJS - is a component-based library. Thanks to react-components you can build incapsulated blocks with their own state, then compose them to make complex UIs. 
+When you writing your code you should thinking in components.
 #####React has two variables of components: stateful and stateless.
 
 * Simple component
